@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Board {
+  display: "flex";
+  margin: "0 auto";
+  width: "80vw";
+  font-family: 'Arial, "Helvetica Neue", sans-serif';
+}
+.Column {
+  min-width: 200;
+  width: "20vw";
+  height: "80vh";
+  margin: "0 auto";
+}
+
+.ColumnHead {
+  text-align: "left";
+  padding: 10;
+  margin-left: 10;
+  font-size: "1.4em";
+}
